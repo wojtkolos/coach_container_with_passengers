@@ -1,6 +1,5 @@
 # coach_container_with_passengers
 
-
 to do:
 a) Create a default object of the Passenger class. Complete and write his details alive to the accessors.
 b) Create a Passenger class object using a parameterizer. View its data when
