@@ -1,3 +1,5 @@
+#define COACH_H
+
 #include "Passenger.h"
 
 class Coach {
