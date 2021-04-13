@@ -1,3 +1,5 @@
+#define PASSENGER_H
+
 #include <iostream>
 
 class Coach;
