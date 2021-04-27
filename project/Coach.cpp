@@ -58,7 +58,6 @@ Passenger* Coach::getTab()
     return tab; 
 }
 
-
 //Operators
 float Coach::operator++() 
 {
